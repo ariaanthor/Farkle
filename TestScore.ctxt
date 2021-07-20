@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TestScore
+comment1.params=
+comment1.target=void\ setUp()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=arrstr
+comment2.target=java.util.ArrayList\ fromString(java.lang.String)
+comment3.params=arr\ score
+comment3.target=void\ testScore(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ testOne()
+comment5.params=
+comment5.target=void\ testTwo()
+comment6.params=
+comment6.target=void\ testThree()
+comment7.params=
+comment7.target=void\ testFour()
+comment8.params=
+comment8.target=void\ testFive()
+comment9.params=
+comment9.target=void\ testSix()
+numComments=11

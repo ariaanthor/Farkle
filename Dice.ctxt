@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ The\ Dice\ class\ is\ only\ responsible\ for\ managing\ and\ displaying\ the\ Dice.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Dice()
+comment2.params=num\ dienum
+comment2.target=javax.swing.JButton\ displaySingleButton(int,\ int)
+comment3.params=
+comment3.target=int\ getValueOfDice()
+numComments=4

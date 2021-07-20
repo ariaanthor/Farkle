@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Farkle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Farkle\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Farkle()
+comment2.params=disp
+comment2.target=void\ setDisplayOutput(java.lang.String)
+comment3.params=
+comment3.target=void\ setLayout()
+comment4.params=arrList
+comment4.target=void\ create_dupeDicts(java.util.ArrayList)
+comment4.text=\r\n\ Method\ create_dupeDicts\r\n\r\n\ @param\ arrList\ A\ parameter\ consisting\ of\ values\ of\ the\ dice.\ Lenght\ doesn't\ matter.\r\n
+comment5.params=arrList
+comment5.target=int\ score(java.util.ArrayList)
+comment5.text=\r\n\ Method\ score\r\n\r\n\ @param\ arrList\ list\ of\ integers\ wgich\ represent\ the\ dice.\ It\ can\ be\ any\ lenght.\r\n\ @return\ The\ return\ value\ which\ scores\ the\ array\ representing\ the\ dice.\r\n
+comment6.params=
+comment6.target=int\ totalScore()
+comment7.params=arrList
+comment7.target=void\ bankDice(java.util.ArrayList)
+comment8.params=
+comment8.target=int\ startTurn()
+comment8.text=\r\n\ Method\ startTurn\r\n\ Initailaizes\ the\ variables\ needed\ for\ a\ start\ of\ a\ turn.\r\n\r\n\ @return\ The\ return\ value\ is\ the\ score\ of\ the\ turn\ including\ all\ the\ banks.\r\n
+comment9.params=
+comment9.target=int\ playRoll()
+comment9.text=\r\n\ Method\ playRoll\r\n\ \ \ \ Within\ a\ turn\ a\ player\ can\ have\ many\ rolls.\ This\ implements\ one\ roll\ and\ recursively\ calls\ the\ next\ roll\ unless\ the\ round\ finishes.\r\n\ @return\ The\ return\ value\ is\ the\ score\ for\ that\ roll.\r\n
+numComments=10
